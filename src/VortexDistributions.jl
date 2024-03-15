@@ -15,7 +15,7 @@ using SimpleWeightedGraphs
 
 # 3d deps
 # using GLMakie
-using ScikitLearn
+#using ScikitLearn
 using NearestNeighbors
 using Distances
 using FLoops
