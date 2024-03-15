@@ -23,9 +23,7 @@ ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
 UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
 
 [compat]
-Coverage = "1.4"
 Distances = "~0.10"
-FFTW = "1.6,1.7"
 FLoops = "~0.2"
 FileIO = "1, 1.8, 1.9"
 Interpolations = "~0.13"
@@ -35,7 +33,6 @@ Parameters = "~0.12"
 ProgressMeter = "1, 1.5, 1.6, 1.7"
 SimpleWeightedGraphs = "1, 1.1"
 ToeplitzMatrices = "~0.8"
-UnPack = "1"
 julia = "1.7,1.8,1.9,1.10"
 
 [extras]
